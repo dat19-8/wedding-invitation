@@ -32,8 +32,8 @@ export function DearGuestSection() {
           </p>
 
           <p className="font-serif text-lg md:text-xl leading-loose mb-6" style={{ color: "#6B5E52" }}>
-            Together with our families, we joyfully request<br className="hidden md:block" />
-            the honour of your presence as we celebrate<br className="hidden md:block" />
+            Together with our families, we joyfully request <br className="hidden md:block" />
+            the honour of your presence as we celebrate <br className="hidden md:block" />
             the beginning of our forever.
           </p>
 

@@ -422,7 +422,7 @@ export function RSVPSection() {
                     <HeartOff className="w-9 h-9" style={{color:"#B09090"}} strokeWidth={1.5}/>
                   </div>
                   <h3 className="font-serif text-3xl font-light mb-6" style={{color:"#4E433B"}}>
-                    We'll Miss You Dearly
+                    Your Regrets Are Sent!
                   </h3>
                   <div className="p-6 mb-6" style={{background:"#FDFAF6",border:"1px solid #E0D8CC",borderLeft:"2px solid #C4B8B0"}}>
                     <p className="font-serif italic" style={{fontSize:"1rem",color:"#6B5E52",lineHeight:2.1}}>
